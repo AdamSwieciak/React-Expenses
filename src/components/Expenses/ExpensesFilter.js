@@ -10,6 +10,7 @@ const dropdownChangerHandler = (event) => {
     props.onfilterDate(event.target.value);
 }
 
+
   return (
     <div className="expenses-filter">
       <div className="expenses-filter__control">
